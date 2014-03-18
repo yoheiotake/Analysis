@@ -46,10 +46,10 @@ Analysis
 ----------------
 
 ### 台形公式とSimpsonのプログラムの実行結果
-![my image](http://www.kki.yamanashi.ac.jp/~t11kf008/images/Gnuplot_Simpson.png)  
+![my image](http://www.kki.yamanashi.ac.jp/~t11kf008/images/sub.png)  
 
 ### 離散フーリエ変換のプログラムの実行結果
-![my image](http://www.kki.yamanashi.ac.jp/~t11kf008/images/Gnuplot_DFT.png)
+![my image](http://www.kki.yamanashi.ac.jp/~t11kf008/images/sub2.png)
 
 
 コピーライト
